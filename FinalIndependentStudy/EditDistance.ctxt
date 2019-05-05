@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EditDistance()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ EditDistance\n
+comment1.params=word1\ word2
+comment1.target=int\ minDistance(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Gets\ the\ minimum\ distance\ between\ words\ at\ m,n\ points\n
+comment2.params=word1\ word2\ temp\ i\ j
+comment2.target=int\ calDistance(java.lang.String,\ java.lang.String,\ int[][],\ int,\ int)
+comment2.text=\n\ iterates\ through\ the\ words\ at\ points\ i\ and\ j,\ then\ gives\ the\ words\ up\ until\ that\ \n\ point\ to\ minDistance\ where\ it\ calculates\ the\ minumum\ distance\ for\ that\ point.\n
+numComments=3

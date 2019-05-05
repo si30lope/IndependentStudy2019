@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=word1\ word2
+comment0.target=Task(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=word1\ word2
+comment2.target=void\ initialize(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ answer()
+comment4.params=
+comment4.target=int[][]\ matrix()
+numComments=5

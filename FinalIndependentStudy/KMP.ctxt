@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pat
+comment0.target=KMP(java.lang.String)
+comment0.text=\n\ Preprocesses\ the\ pattern\ string.\n\n\ @param\ pat\ the\ pattern\ string\n
+comment1.params=pattern\ R
+comment1.target=KMP(char[],\ int)
+comment1.text=\n\ Preprocesses\ the\ pattern\ string.\n\n\ @param\ pattern\ the\ pattern\ string\n\ @param\ R\ the\ alphabet\ size\n
+comment2.params=txt
+comment2.target=int\ search(java.lang.String)
+comment2.text=\n\ Returns\ the\ index\ of\ the\ first\ occurrrence\ of\ the\ pattern\ string\n\ in\ the\ text\ string.\n\n\ @param\ \ txt\ the\ text\ string\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\n\ \ \ \ \ \ \ \ \ in\ the\ text\ string;\ N\ if\ no\ such\ match\n
+comment3.params=text
+comment3.target=int\ search(char[])
+comment3.text=\n\ Returns\ the\ index\ of\ the\ first\ occurrrence\ of\ the\ pattern\ string\n\ in\ the\ text\ string.\n\n\ @param\ \ text\ the\ text\ string\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ the\ pattern\ string\n\ \ \ \ \ \ \ \ \ in\ the\ text\ string;\ N\ if\ no\ such\ match\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\ \n\ Takes\ a\ pattern\ string\ and\ an\ input\ string\ as\ command-line\ arguments;\n\ searches\ for\ the\ pattern\ string\ in\ the\ text\ string;\ and\ prints\n\ the\ first\ occurrence\ of\ the\ pattern\ string\ in\ the\ text\ string.\n\n\ @param\ args\ the\ command-line\ arguments\n
+numComments=5
